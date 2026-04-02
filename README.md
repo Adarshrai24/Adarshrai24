@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **adarshrai409@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Building Shell 
-- 🌱 **I’m currently learning:** C++, golang
+- 🌱 **I’m currently learning:** C++, Go
 - 📫 **How to reach me:** adarshrai409@gmail.com
 
 <div align="center">
