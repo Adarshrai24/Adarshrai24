@@ -7,10 +7,6 @@ Email Me 👉 ✉️ **adarshrai409@gmail.com** For Collaboration/Project or Any
 - 🌱 **I’m currently learning:** C++, Go
 - 📫 **How to reach me:** adarshrai409@gmail.com
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-shankar-rai) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdarshRai525125) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshrai409@gmail.com) 
 
