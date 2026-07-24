@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **adarshrai409@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Building Shell 
+- 🔭 **I’m currently working on:** Building mini Redis Clone
 - 🌱 **I’m currently learning:** C++, Go
 - 📫 **How to reach me:** adarshrai409@gmail.com
 
